@@ -1,64 +1,191 @@
-2019-07-13T06:26:51.774Z - normal: Load ~/.CocosCreator/settings.json
-2019-07-13T06:26:51.878Z - normal: Initializing Asset Database
-2019-07-13T06:26:51.880Z - normal: checking language setting...
-2019-07-13T06:26:51.880Z - normal: Language: zh
-2019-07-13T06:26:52.798Z - success: preview server running at http://localhost:7456
-2019-07-13T06:26:52.894Z - success: protocol editor-framework registered
-2019-07-13T06:26:52.894Z - success: protocol app registered
-2019-07-13T06:26:52.894Z - success: protocol theme registered
-2019-07-13T06:26:52.894Z - success: protocol packages registered
-2019-07-13T06:26:52.894Z - success: protocol uuid registerred
-2019-07-13T06:26:52.894Z - success: protocol db registerred
-2019-07-13T06:26:52.895Z - success: protocol thumbnail registerred
-2019-07-13T06:26:52.895Z - success: protocol unpack registerred
-2019-07-13T06:26:52.895Z - success: protocol disable-commonjs registerred
-2019-07-13T06:26:55.797Z - normal: failed to connect login server due to request timeout
-2019-07-13T06:26:55.798Z - normal: Check project /Users/dinghao/Documents/projects/game/OpenCar
-2019-07-13T06:26:55.799Z - normal: Initializing project /Users/dinghao/Documents/projects/game/OpenCar
-2019-07-13T06:26:56.154Z - normal: Initializing Cocos2d
-2019-07-13T06:26:57.385Z - normal: Initializing engine extends
-2019-07-13T06:26:57.419Z - success: asset-db-debugger loaded
-2019-07-13T06:26:57.424Z - success: baidu-adapter loaded
-2019-07-13T06:26:57.426Z - success: color-picker loaded
-2019-07-13T06:26:57.584Z - success: fb-audience-network loaded
-2019-07-13T06:26:57.632Z - success: fb-live-stream loaded
-2019-07-13T06:26:57.636Z - success: google-play-instant loaded
-2019-07-13T06:26:57.651Z - success: huawei-runtime loaded
-2019-07-13T06:26:57.653Z - success: jsb-adapter loaded
-2019-07-13T06:26:57.665Z - success: oppo-runtime loaded
-2019-07-13T06:26:57.678Z - success: package-manager loaded
-2019-07-13T06:26:57.849Z - success: qqplay-adapter loaded
-2019-07-13T06:26:57.852Z - success: runtime-dev-tools loaded
-2019-07-13T06:26:57.862Z - success: sdkbox loaded
-2019-07-13T06:26:57.871Z - success: tester loaded
-2019-07-13T06:26:57.880Z - success: ui-grid loaded
-2019-07-13T06:26:57.887Z - success: ui-kit-preview-extra loaded
-2019-07-13T06:26:57.895Z - success: ui-kit-preview loaded
-2019-07-13T06:26:57.903Z - success: ui-kit loaded
-2019-07-13T06:26:57.910Z - success: ui-tree loaded
-2019-07-13T06:26:57.922Z - success: vivo-runtime loaded
-2019-07-13T06:26:57.924Z - success: weapp-adapter loaded
-2019-07-13T06:26:57.965Z - success: assets loaded
-2019-07-13T06:26:57.973Z - success: builder loaded
-2019-07-13T06:26:58.173Z - success: cocos-services loaded
-2019-07-13T06:26:58.182Z - success: console loaded
-2019-07-13T06:26:58.211Z - success: fb-instant-games loaded
-2019-07-13T06:26:58.220Z - success: google-instant-games loaded
-2019-07-13T06:26:58.229Z - success: hierarchy loaded
-2019-07-13T06:26:58.239Z - success: inspector loaded
-2019-07-13T06:26:58.240Z - success: keystore loaded
-2019-07-13T06:26:58.251Z - success: node-library loaded
-2019-07-13T06:26:58.253Z - success: package-asset loaded
-2019-07-13T06:26:58.254Z - success: preferences loaded
-2019-07-13T06:26:58.263Z - success: project-exporter loaded
-2019-07-13T06:26:58.272Z - success: project-importer loaded
-2019-07-13T06:26:58.279Z - success: project-settings loaded
-2019-07-13T06:26:58.289Z - success: scene loaded
-2019-07-13T06:26:58.290Z - success: simulator-debugger loaded
-2019-07-13T06:26:58.292Z - success: sprite-editor loaded
-2019-07-13T06:26:58.301Z - success: store loaded
-2019-07-13T06:26:58.315Z - info: Cocos Services load base data!
-2019-07-13T06:26:58.320Z - success: timeline loaded
-2019-07-13T06:26:59.165Z - normal: Loading packages
-2019-07-13T06:26:59.169Z - normal: Watching packages
-2019-07-13T06:26:59.242Z - normal: Run Application
+2019-07-20T05:58:07.610Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-20T05:58:07.671Z - normal: Initializing Asset Database
+2019-07-20T05:58:07.674Z - normal: checking language setting...
+2019-07-20T05:58:07.674Z - normal: Language: zh
+2019-07-20T05:58:08.196Z - success: preview server running at http://localhost:7456
+2019-07-20T05:58:08.260Z - success: protocol editor-framework registered
+2019-07-20T05:58:08.261Z - success: protocol app registered
+2019-07-20T05:58:08.261Z - success: protocol theme registered
+2019-07-20T05:58:08.261Z - success: protocol packages registered
+2019-07-20T05:58:08.261Z - success: protocol uuid registerred
+2019-07-20T05:58:08.261Z - success: protocol db registerred
+2019-07-20T05:58:08.261Z - success: protocol thumbnail registerred
+2019-07-20T05:58:08.261Z - success: protocol unpack registerred
+2019-07-20T05:58:08.261Z - success: protocol disable-commonjs registerred
+2019-07-20T05:58:08.384Z - normal: connected!
+2019-07-20T05:58:08.385Z - normal: Check project /Users/dinghao/Documents/projects/game/OpenCar
+2019-07-20T05:58:08.387Z - normal: Initializing project /Users/dinghao/Documents/projects/game/OpenCar
+2019-07-20T05:58:08.663Z - normal: Initializing Cocos2d
+2019-07-20T05:58:09.613Z - normal: Initializing engine extends
+2019-07-20T05:58:09.673Z - success: asset-db-debugger loaded
+2019-07-20T05:58:09.675Z - success: baidu-adapter loaded
+2019-07-20T05:58:09.676Z - success: color-picker loaded
+2019-07-20T05:58:09.749Z - success: fb-audience-network loaded
+2019-07-20T05:58:09.781Z - success: fb-live-stream loaded
+2019-07-20T05:58:09.785Z - success: google-play-instant loaded
+2019-07-20T05:58:09.792Z - success: huawei-runtime loaded
+2019-07-20T05:58:10.010Z - success: cpk-publish loaded
+2019-07-20T05:58:10.011Z - success: jsb-adapter loaded
+2019-07-20T05:58:10.017Z - success: oppo-runtime loaded
+2019-07-20T05:58:10.029Z - success: package-manager loaded
+2019-07-20T05:58:10.111Z - success: qqplay-adapter loaded
+2019-07-20T05:58:10.115Z - success: runtime-dev-tools loaded
+2019-07-20T05:58:10.129Z - success: sdkbox loaded
+2019-07-20T05:58:10.138Z - success: tester loaded
+2019-07-20T05:58:10.152Z - success: ui-grid loaded
+2019-07-20T05:58:10.164Z - success: ui-kit-preview-extra loaded
+2019-07-20T05:58:10.173Z - success: ui-kit-preview loaded
+2019-07-20T05:58:10.182Z - success: ui-kit loaded
+2019-07-20T05:58:10.189Z - success: ui-tree loaded
+2019-07-20T05:58:10.196Z - success: vivo-runtime loaded
+2019-07-20T05:58:10.197Z - success: weapp-adapter loaded
+2019-07-20T05:58:10.197Z - success: xiaomi-adapter loaded
+2019-07-20T05:58:10.239Z - success: assets loaded
+2019-07-20T05:58:10.248Z - success: builder loaded
+2019-07-20T05:58:10.444Z - success: cocos-services loaded
+2019-07-20T05:58:10.457Z - success: console loaded
+2019-07-20T05:58:10.484Z - success: fb-instant-games loaded
+2019-07-20T05:58:10.491Z - success: google-instant-games loaded
+2019-07-20T05:58:10.500Z - success: hierarchy loaded
+2019-07-20T05:58:10.508Z - success: inspector loaded
+2019-07-20T05:58:10.509Z - success: keystore loaded
+2019-07-20T05:58:10.520Z - success: node-library loaded
+2019-07-20T05:58:10.521Z - success: package-asset loaded
+2019-07-20T05:58:10.522Z - success: preferences loaded
+2019-07-20T05:58:10.529Z - success: project-exporter loaded
+2019-07-20T05:58:10.537Z - success: project-importer loaded
+2019-07-20T05:58:10.545Z - success: project-settings loaded
+2019-07-20T05:58:10.555Z - success: scene loaded
+2019-07-20T05:58:10.556Z - success: simulator-debugger loaded
+2019-07-20T05:58:10.556Z - success: sprite-editor loaded
+2019-07-20T05:58:10.565Z - success: store loaded
+2019-07-20T05:58:10.574Z - success: timeline loaded
+2019-07-20T05:58:10.579Z - success: xiaomi-runtime loaded
+2019-07-20T05:58:14.831Z - info: Cocos Services load base data!
+2019-07-20T05:58:15.746Z - normal: Loading packages
+2019-07-20T05:58:15.749Z - normal: Watching packages
+2019-07-20T05:58:15.827Z - normal: Run Application
+2019-07-20T06:48:19.055Z - failed: load script [JoystickCommon] failed : Error: Cannot find module 'JoystickCommon'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:1:349
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:7:23)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+2019-07-20T06:48:19.058Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js] failed : TypeError: Cannot read property 'SpeedType' of undefined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:20:37)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:90:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-20T06:48:28.543Z - failed: load script [JoystickCommon] failed : Error: Cannot find module 'JoystickCommon'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:1:349
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:7:23)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+2019-07-20T06:48:28.545Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js] failed : TypeError: Cannot read property 'SpeedType' of undefined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:20:37)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:90:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-20T06:49:11.723Z - failed: load script [JoystickCommon] failed : Error: Cannot find module 'JoystickCommon'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:1:349
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:7:23)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+2019-07-20T06:49:11.725Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js] failed : TypeError: Cannot read property 'SpeedType' of undefined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:20:37)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:83:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:90:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:93:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-20T06:50:11.421Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js] failed : ReferenceError: SpeedType is not defined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:18:22)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:81:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:88:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/Player.js:91:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-20T06:55:04.182Z - failed: [db-task][sync-changes] Failed to import asset /Users/dinghao/Documents/projects/game/OpenCar/assets/scripts/JoyStick.js, message: Compile error: SyntaxError: /Users/dinghao/Documents/projects/game/OpenCar/assets/scripts/JoyStick.js: Unexpected token (34:4)
+  32 | 
+  33 |         this.dot.
+> 34 |     },
+     |     ^
+  35 | 
+  36 | 
+  37 |     initListenerEvent() {
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseIdentifier (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4332:10)
+    at Parser.pp$3.parseSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3517:30)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+2019-07-20T07:26:52.427Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/JoyStick.js] failed : ReferenceError: MOUSE_LEAVE is not defined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/JoyStick.js:65:1)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/JoyStick.js:70:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/JoyStick.js:77:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/JoyStick.js:80:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-20T07:38:27.901Z - failed: [db-task][sync-changes] Failed to import asset /Users/dinghao/Documents/projects/game/OpenCar/assets/scripts/JoyStick.js, message: Compile error: SyntaxError: /Users/dinghao/Documents/projects/game/OpenCar/assets/scripts/JoyStick.js: Unexpected token (49:12)
+  47 | 
+  48 |         console.log(endY)
+> 49 |         if () {
+     |             ^
+  50 | 
+  51 |         }
+  52 |         this.dot.setPosition(event.getLocation())
+    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+    at Parser.pp$3.parseParenExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3789:18)
