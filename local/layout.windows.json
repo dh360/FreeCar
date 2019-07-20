@@ -84,7 +84,8 @@
         "cocos-services",
         "scene"
       ]
-    }
+    },
+    "window-1563613513636": {}
   },
   "panels": {
     "sprite-editor": {
@@ -98,6 +99,12 @@
       "y": 189,
       "width": 584,
       "height": 548
+    },
+    "builder": {
+      "x": 470,
+      "y": 89,
+      "width": 654,
+      "height": 722
     }
   }
 }

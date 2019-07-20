@@ -55,7 +55,7 @@
     "relativePath": "imgs/circle.png"
   },
   "8f5e3ec9-1271-4dcf-96bc-12956f24a720": {
-    "asset": 1563003429022,
+    "asset": 1563605298308,
     "meta": 1563000760835,
     "relativePath": "scripts"
   },
@@ -290,8 +290,8 @@
     "relativePath": "scripts/Player.js"
   },
   "a8c89a71-7d6b-454b-93c2-f74f36849cca": {
-    "asset": 1563608867596,
-    "meta": 1563608868118,
+    "asset": 1563613562097,
+    "meta": 1563613563469,
     "relativePath": "scripts/JoyStick.js"
   }
 }
