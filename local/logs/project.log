@@ -1,67 +1,80 @@
-2019-07-27T07:18:44.350Z - normal: Load ~/.CocosCreator/settings.json
-2019-07-27T07:18:44.481Z - normal: Initializing Asset Database
-2019-07-27T07:18:44.484Z - normal: checking language setting...
-2019-07-27T07:18:44.484Z - normal: Language: zh
-2019-07-27T07:18:45.531Z - success: preview server running at http://localhost:7456
-2019-07-27T07:18:45.728Z - success: protocol editor-framework registered
-2019-07-27T07:18:45.728Z - success: protocol app registered
-2019-07-27T07:18:45.728Z - success: protocol theme registered
-2019-07-27T07:18:45.728Z - success: protocol packages registered
-2019-07-27T07:18:45.729Z - success: protocol uuid registerred
-2019-07-27T07:18:45.729Z - success: protocol db registerred
-2019-07-27T07:18:45.729Z - success: protocol thumbnail registerred
-2019-07-27T07:18:45.730Z - success: protocol unpack registerred
-2019-07-27T07:18:45.730Z - success: protocol disable-commonjs registerred
-2019-07-27T07:18:48.536Z - normal: failed to connect login server due to request timeout
-2019-07-27T07:18:48.536Z - normal: Check project /Users/dinghao/Documents/projects/game/OpenCar
-2019-07-27T07:18:48.539Z - normal: Initializing project /Users/dinghao/Documents/projects/game/OpenCar
-2019-07-27T07:18:49.093Z - normal: Initializing Cocos2d
-2019-07-27T07:18:50.066Z - normal: Initializing engine extends
-2019-07-27T07:18:50.107Z - success: asset-db-debugger loaded
-2019-07-27T07:18:50.115Z - success: baidu-adapter loaded
-2019-07-27T07:18:50.121Z - success: color-picker loaded
-2019-07-27T07:18:50.247Z - success: fb-audience-network loaded
-2019-07-27T07:18:50.331Z - success: fb-live-stream loaded
-2019-07-27T07:18:50.336Z - success: google-play-instant loaded
-2019-07-27T07:18:50.352Z - success: huawei-runtime loaded
-2019-07-27T07:18:50.684Z - success: cpk-publish loaded
-2019-07-27T07:18:50.685Z - success: jsb-adapter loaded
-2019-07-27T07:18:50.692Z - success: oppo-runtime loaded
-2019-07-27T07:18:50.712Z - success: package-manager loaded
-2019-07-27T07:18:50.866Z - success: qqplay-adapter loaded
-2019-07-27T07:18:50.868Z - success: runtime-dev-tools loaded
-2019-07-27T07:18:50.888Z - success: sdkbox loaded
-2019-07-27T07:18:50.898Z - success: tester loaded
-2019-07-27T07:18:50.911Z - success: ui-grid loaded
-2019-07-27T07:18:50.930Z - success: ui-kit-preview-extra loaded
-2019-07-27T07:18:50.942Z - success: ui-kit-preview loaded
-2019-07-27T07:18:50.951Z - success: ui-kit loaded
-2019-07-27T07:18:50.961Z - success: ui-tree loaded
-2019-07-27T07:18:50.967Z - success: vivo-runtime loaded
-2019-07-27T07:18:50.969Z - success: weapp-adapter loaded
-2019-07-27T07:18:50.976Z - success: xiaomi-adapter loaded
-2019-07-27T07:18:51.032Z - success: assets loaded
-2019-07-27T07:18:51.042Z - success: builder loaded
-2019-07-27T07:18:51.378Z - success: cocos-services loaded
-2019-07-27T07:18:51.394Z - success: console loaded
-2019-07-27T07:18:51.428Z - success: fb-instant-games loaded
-2019-07-27T07:18:51.430Z - success: google-instant-games loaded
-2019-07-27T07:18:51.443Z - success: hierarchy loaded
-2019-07-27T07:18:51.452Z - success: inspector loaded
-2019-07-27T07:18:51.454Z - success: keystore loaded
-2019-07-27T07:18:51.467Z - success: node-library loaded
-2019-07-27T07:18:51.469Z - success: package-asset loaded
-2019-07-27T07:18:51.471Z - success: preferences loaded
-2019-07-27T07:18:51.480Z - success: project-exporter loaded
-2019-07-27T07:18:51.492Z - success: project-importer loaded
-2019-07-27T07:18:51.501Z - success: project-settings loaded
-2019-07-27T07:18:51.512Z - success: scene loaded
-2019-07-27T07:18:51.513Z - success: simulator-debugger loaded
-2019-07-27T07:18:51.515Z - success: sprite-editor loaded
-2019-07-27T07:18:51.529Z - success: store loaded
-2019-07-27T07:18:51.543Z - success: timeline loaded
-2019-07-27T07:18:51.549Z - success: xiaomi-runtime loaded
-2019-07-27T07:18:52.381Z - normal: Loading packages
-2019-07-27T07:18:52.385Z - normal: Watching packages
-2019-07-27T07:18:52.497Z - normal: Run Application
-2019-07-27T07:18:52.833Z - info: Cocos Services load base data!
+2019-07-27T07:39:55.203Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-27T07:39:55.272Z - normal: Initializing Asset Database
+2019-07-27T07:39:55.274Z - normal: checking language setting...
+2019-07-27T07:39:55.274Z - normal: Language: zh
+2019-07-27T07:39:56.387Z - success: preview server running at http://localhost:7456
+2019-07-27T07:39:56.400Z - success: protocol editor-framework registered
+2019-07-27T07:39:56.400Z - success: protocol app registered
+2019-07-27T07:39:56.400Z - success: protocol theme registered
+2019-07-27T07:39:56.400Z - success: protocol packages registered
+2019-07-27T07:39:56.400Z - success: protocol uuid registerred
+2019-07-27T07:39:56.400Z - success: protocol db registerred
+2019-07-27T07:39:56.401Z - success: protocol thumbnail registerred
+2019-07-27T07:39:56.401Z - success: protocol unpack registerred
+2019-07-27T07:39:56.401Z - success: protocol disable-commonjs registerred
+2019-07-27T07:39:56.522Z - normal: connected!
+2019-07-27T07:39:56.523Z - normal: Check project /Users/dinghao/Documents/projects/game/OpenCar
+2019-07-27T07:39:56.524Z - normal: Initializing project /Users/dinghao/Documents/projects/game/OpenCar
+2019-07-27T07:39:56.909Z - normal: Initializing Cocos2d
+2019-07-27T07:39:58.008Z - normal: Initializing engine extends
+2019-07-27T07:39:58.051Z - success: asset-db-debugger loaded
+2019-07-27T07:39:58.056Z - success: baidu-adapter loaded
+2019-07-27T07:39:58.065Z - success: color-picker loaded
+2019-07-27T07:39:58.220Z - success: fb-audience-network loaded
+2019-07-27T07:39:58.287Z - success: fb-live-stream loaded
+2019-07-27T07:39:58.290Z - success: google-play-instant loaded
+2019-07-27T07:39:58.304Z - success: huawei-runtime loaded
+2019-07-27T07:39:58.643Z - success: cpk-publish loaded
+2019-07-27T07:39:58.650Z - success: jsb-adapter loaded
+2019-07-27T07:39:58.664Z - success: oppo-runtime loaded
+2019-07-27T07:39:58.669Z - success: package-manager loaded
+2019-07-27T07:39:58.829Z - success: qqplay-adapter loaded
+2019-07-27T07:39:58.836Z - success: runtime-dev-tools loaded
+2019-07-27T07:39:58.842Z - success: sdkbox loaded
+2019-07-27T07:39:58.849Z - success: tester loaded
+2019-07-27T07:39:58.853Z - success: ui-grid loaded
+2019-07-27T07:39:58.858Z - success: ui-kit-preview-extra loaded
+2019-07-27T07:39:58.866Z - success: ui-kit-preview loaded
+2019-07-27T07:39:58.870Z - success: ui-kit loaded
+2019-07-27T07:39:58.874Z - success: ui-tree loaded
+2019-07-27T07:39:58.884Z - success: vivo-runtime loaded
+2019-07-27T07:39:58.885Z - success: weapp-adapter loaded
+2019-07-27T07:39:58.887Z - success: xiaomi-adapter loaded
+2019-07-27T07:39:58.933Z - success: assets loaded
+2019-07-27T07:39:58.939Z - success: builder loaded
+2019-07-27T07:39:59.277Z - success: cocos-services loaded
+2019-07-27T07:39:59.282Z - success: console loaded
+2019-07-27T07:39:59.314Z - success: fb-instant-games loaded
+2019-07-27T07:39:59.315Z - success: google-instant-games loaded
+2019-07-27T07:39:59.320Z - success: hierarchy loaded
+2019-07-27T07:39:59.324Z - success: inspector loaded
+2019-07-27T07:39:59.325Z - success: keystore loaded
+2019-07-27T07:39:59.331Z - success: node-library loaded
+2019-07-27T07:39:59.333Z - success: package-asset loaded
+2019-07-27T07:39:59.334Z - success: preferences loaded
+2019-07-27T07:39:59.337Z - success: project-exporter loaded
+2019-07-27T07:39:59.342Z - success: project-importer loaded
+2019-07-27T07:39:59.345Z - success: project-settings loaded
+2019-07-27T07:39:59.350Z - success: scene loaded
+2019-07-27T07:39:59.352Z - success: simulator-debugger loaded
+2019-07-27T07:39:59.353Z - success: sprite-editor loaded
+2019-07-27T07:39:59.357Z - success: store loaded
+2019-07-27T07:39:59.383Z - success: timeline loaded
+2019-07-27T07:39:59.388Z - success: xiaomi-runtime loaded
+2019-07-27T07:40:00.954Z - normal: Loading packages
+2019-07-27T07:40:00.959Z - normal: Watching packages
+2019-07-27T07:40:01.073Z - normal: Run Application
+2019-07-27T07:40:01.554Z - info: Cocos Services load base data!
+2019-07-27T08:19:02.162Z - failed: load script [/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/car.js] failed : ReferenceError: string is not defined
+    at __define (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/car.js:20:19)
+    at /Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/car.js:75:13
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/car.js:82:11)
+    at Object.<anonymous> (/Users/dinghao/Documents/projects/game/OpenCar/temp/quick-scripts/assets/scripts/car.js:85:3)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+2019-07-27T08:19:19.027Z - warn: The type of "car.speed" must be cc.String, not String.
+2019-07-27T08:20:14.480Z - warn: No needs to indicate the 'cc.String' attribute for "car.speed", which its default value is type of String.

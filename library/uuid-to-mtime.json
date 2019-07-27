@@ -280,23 +280,23 @@
     "relativePath": "prefab/webview.prefab"
   },
   "2e68e458-c761-4b95-8fb6-c7de83bfa880": {
-    "asset": 1564211913674,
-    "meta": 1564211913694,
+    "asset": 1564218884584,
+    "meta": 1564218884589,
     "relativePath": "未命名.fire"
   },
-  "ae1cb4d8-015f-4b8f-be91-0848445dcacf": {
-    "asset": 1564211705067,
-    "meta": 1564211707633,
-    "relativePath": "scripts/car.js"
-  },
   "9dc7cdf4-02bc-4a8e-9833-7b91818ec6b5": {
-    "asset": 1564211464135,
-    "meta": 1564211707694,
+    "asset": 1564214955366,
+    "meta": 1564215066457,
     "relativePath": "scripts/carSettings.js"
   },
   "a8c89a71-7d6b-454b-93c2-f74f36849cca": {
-    "asset": 1564212035276,
-    "meta": 1564212036950,
+    "asset": 1564218626290,
+    "meta": 1564218627828,
     "relativePath": "scripts/JoyStick.js"
+  },
+  "ae1cb4d8-015f-4b8f-be91-0848445dcacf": {
+    "asset": 1564218749052,
+    "meta": 1564218752068,
+    "relativePath": "scripts/car.js"
   }
 }

@@ -4,8 +4,6 @@ cc._RF.push(module, 'a8c89pxfWtFS5PC9082hJzK', 'JoyStick');
 
 'use strict';
 
-var _carSettings = require('./carSettings');
-
 cc.Class({
     extends: cc.Component,
     properties: {
@@ -28,12 +26,14 @@ cc.Class({
     },
 
     onLoad: function onLoad() {
+        console.log('摇杆组件加载。。。');
         //获取摇杆初始位置
         this.ringPos = this.ring.getPosition();
         this.radius = this.ring.width / 2; // 半径
         this.centerX = this.ring.anchorX * this.ring.width;
         this.centerY = this.ring.anchorY * this.ring.height;
         this.initListenerEvent(); //挂载监听事件
+        this.car = this.car.getComponent('car');
     },
 
 
@@ -58,11 +58,13 @@ cc.Class({
         var p = cc.v2(posX, posY).sub(this.ring.getPosition()).normalize();
         if (distance <= this.radius) {
             this.dot.setPosition(touchPos);
+            this.car.moveDir = p;
             this.car.speedType = 'NORMAL';
         } else {
             var x = this._stickPos.x + p.x * this.radius;
             var y = this._stickPos.y + p.y * this.radius;
             this.dot.setPosition(cc.v2(x, y));
+            this.car.moveDir = p;
             this.car.speedType = 'FAST';
         }
     },

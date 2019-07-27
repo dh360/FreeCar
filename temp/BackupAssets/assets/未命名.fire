@@ -41,8 +41,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.6046875,
-      "y": 0.6046875,
+      "x": 0.4252141940362329,
+      "y": 0.4252141940362329,
       "z": 1
     },
     "_quat": {
@@ -405,14 +405,14 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": 274,
-      "y": 38,
+      "x": 252,
+      "y": 70,
       "z": 0
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.6666667,
+      "y": 0.6666667,
       "z": 1
     },
     "_rotationX": 0,
@@ -427,7 +427,7 @@
     "_skewX": 0,
     "_skewY": 0,
     "groupIndex": 0,
-    "_id": "1fFBAgHF9KGbSLvWJCC+Gc"
+    "_id": "40sTDR9/NGDL3aPc9g/bz4"
   },
   {
     "__type__": "cc.Sprite",
@@ -455,7 +455,7 @@
     "_isTrimmedMode": true,
     "_state": 0,
     "_atlas": null,
-    "_id": "b3VGkEzY9IoaTfa9zt00VP"
+    "_id": "844zWh0uVL+aTJNHyJ+6xK"
   },
   {
     "__type__": "ae1cbTYAV9Lj76RCEhEXcrP",
@@ -471,7 +471,8 @@
       "y": 1
     },
     "speed": 0,
-    "_id": "c8MVvJDeREZ6qWLja4C4Fy"
+    "speedType": "STOP",
+    "_id": "4dw2utLABF5ZEOKvyKv7+X"
   },
   {
     "__type__": "cc.Node",
@@ -660,7 +661,7 @@
     "dot": {
       "__id__": 11
     },
-    "player": {
+    "car": {
       "__id__": 8
     },
     "ring": {
@@ -681,7 +682,7 @@
       "width": 960,
       "height": 640
     },
-    "_fitWidth": false,
+    "_fitWidth": true,
     "_fitHeight": true,
     "_id": "9ehoIeoIlEiqLRRXfNhu3p"
   }

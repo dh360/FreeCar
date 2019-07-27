@@ -1,7 +1,3 @@
-import {
-    speedType
-} from './carSettings'
-
 cc.Class({
     extends: cc.Component,
     properties: {
@@ -24,12 +20,14 @@ cc.Class({
     },
 
     onLoad() {
+        console.log('摇杆组件加载。。。')
         //获取摇杆初始位置
         this.ringPos = this.ring.getPosition();
         this.radius = this.ring.width / 2; // 半径
         this.centerX = this.ring.anchorX * this.ring.width;
         this.centerY = this.ring.anchorY * this.ring.height;
         this.initListenerEvent(); //挂载监听事件
+        this.car = this.car.getComponent('car');
     },
 
     //触摸开始处理事件
@@ -52,11 +50,13 @@ cc.Class({
         const p = cc.v2(posX, posY).sub(this.ring.getPosition()).normalize();
         if (distance <= this.radius) {
             this.dot.setPosition(touchPos);
+            this.car.moveDir = p;
             this.car.speedType = 'NORMAL';
         } else {
             const x = this._stickPos.x + p.x * this.radius;
             const y = this._stickPos.y + p.y * this.radius;
             this.dot.setPosition(cc.v2(x, y));
+            this.car.moveDir = p;
             this.car.speedType = 'FAST';
         }
     },

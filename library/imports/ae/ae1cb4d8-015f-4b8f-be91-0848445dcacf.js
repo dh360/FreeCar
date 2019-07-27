@@ -4,8 +4,6 @@ cc._RF.push(module, 'ae1cbTYAV9Lj76RCEhEXcrP', 'car');
 
 'use strict';
 
-var _carSettings = require('./carSettings');
-
 cc.Class({
     extends: cc.Component,
     properties: {
@@ -17,23 +15,39 @@ cc.Class({
         },
         //速度档位
         speed: {
-            default: _carSettings.speedType.STOP,
-            displayName: 'move  speed!',
+            default: 0,
+            displayName: 'move speed',
             toottip: '移动速度'
+        },
+        speedType: {
+            default: 'STOP',
+            displayName: 'speedType',
+            tootltip: '速度级别'
         }
     },
-
+    start: function start() {
+        console.log('car组件 start');
+        console.log('初始化时的位置：', this.node.getPosition());
+    },
+    onLoad: function onLoad() {},
     move: function move() {
         // 改变方向
         var degrees = cc.misc.radiansToDegrees(Math.atan2(this.moveDir.y, this.moveDir.x));
         this.node.rotation = 90 - degrees;
         //改变位置
-        var addDelta = this.moveDir.mul(this._moveSpeed / 60);
+        var addDelta = this.moveDir.mul(this.speed);
         var newPosition = this.node.position.add(addDelta);
+        console.log('move 新位置', newPosition);
         this.node.setPosition(newPosition);
+        if (degrees != 90) {
+            console.log('方向改变');
+        }
+        if (addDelta.x != 0) {
+            console.log('位置增量', JSON.stringify(addDelta));
+        }
     },
     update: function update(dt) {
-
+        console.log('更新 速度类型 ', this.speedType);
         switch (this.speedType) {
             case 'STOP':
                 this.speed = 0;
