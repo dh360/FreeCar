@@ -42,8 +42,8 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.6041259765625,
-      "y": 0.6041259765625,
+      "x": 0.6046875,
+      "y": 0.6046875,
       "z": 1
     },
     "_quat": {
@@ -79,7 +79,7 @@
     "_level": 1,
     "_components": [
       {
-        "__id__": 15
+        "__id__": 16
       }
     ],
     "_prefab": null,
@@ -309,17 +309,17 @@
         "__id__": 8
       },
       {
-        "__id__": 10
+        "__id__": 11
       },
       {
-        "__id__": 12
+        "__id__": 13
       }
     ],
     "_active": true,
     "_level": 2,
     "_components": [
       {
-        "__id__": 14
+        "__id__": 15
       }
     ],
     "_prefab": null,
@@ -380,6 +380,9 @@
     "_components": [
       {
         "__id__": 9
+      },
+      {
+        "__id__": 10
       }
     ],
     "_prefab": null,
@@ -393,8 +396,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 60,
-      "height": 117
+      "width": 30,
+      "height": 58.5
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -456,6 +459,22 @@
     "_id": "b3VGkEzY9IoaTfa9zt00VP"
   },
   {
+    "__type__": "ae1cbTYAV9Lj76RCEhEXcrP",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 8
+    },
+    "_enabled": true,
+    "moveDir": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 1
+    },
+    "speed": 0,
+    "_id": "c8MVvJDeREZ6qWLja4C4Fy"
+  },
+  {
     "__type__": "cc.Node",
     "_name": "dot",
     "_objFlags": 0,
@@ -467,7 +486,7 @@
     "_level": 3,
     "_components": [
       {
-        "__id__": 11
+        "__id__": 12
       }
     ],
     "_prefab": null,
@@ -520,7 +539,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 10
+      "__id__": 11
     },
     "_enabled": true,
     "_srcBlendFactor": 770,
@@ -555,7 +574,7 @@
     "_level": 3,
     "_components": [
       {
-        "__id__": 13
+        "__id__": 14
       }
     ],
     "_prefab": null,
@@ -608,7 +627,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 12
+      "__id__": 13
     },
     "_enabled": true,
     "_srcBlendFactor": 770,
@@ -640,10 +659,14 @@
     },
     "_enabled": true,
     "dot": {
-      "__id__": 10
+      "__id__": 11
     },
-    "player": null,
-    "ring": null,
+    "player": {
+      "__id__": 8
+    },
+    "ring": {
+      "__id__": 13
+    },
     "_id": "91AHLHMmpJSq5yexL1J7Rv"
   },
   {
