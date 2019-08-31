@@ -14,6 +14,7 @@ var Main = /** @class */ (function (_super) {
         _this.RoleNode = null;
         _this.BgArr = [];
         _this.CameraNode = null;
+        _this.stick = null;
         /** 四个方向输入指令 */
         _this._input = {
             left: false,
@@ -112,6 +113,9 @@ var Main = /** @class */ (function (_super) {
     __decorate([
         property(cc.Node)
     ], Main.prototype, "CameraNode", void 0);
+    __decorate([
+        property(cc.Node)
+    ], Main.prototype, "stick", void 0);
     Main = __decorate([
         ccclass
     ], Main);

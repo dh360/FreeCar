@@ -9,6 +9,7 @@ export default class Main extends cc.Component {
     @property(cc.Node) RoleNode: cc.Node = null;
     @property(cc.Node) BgArr: cc.Node[] = [];
     @property(cc.Node) CameraNode: cc.Node = null;
+    @property(cc.Node) stick: cc.Node = null;
 
     /** 四个方向输入指令 */
 	private _input = {
