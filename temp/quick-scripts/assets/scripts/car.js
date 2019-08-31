@@ -38,10 +38,6 @@ cc.Class({
         var addDelta = this.moveDir.mul(this.speed);
         var newPosition = this.node.position.add(addDelta);
         console.log('move 新位置', newPosition);
-        this.node.setPosition(newPosition);
-        if (degrees != 90) {
-            console.log('方向改变');
-        }
         if (addDelta.x != 0) {
             console.log('位置增量', JSON.stringify(addDelta));
         }

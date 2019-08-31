@@ -4,7 +4,7 @@ cc._RF.push(module, 'df22f7g/aBGKZKgnNJ5p346', 'main');
 
 Object.defineProperty(exports, "__esModule", { value: true });
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
-var SPEED = 400;
+var SPEED = 400; // 这个速度应该跟小车的移动速度保持一致
 var WIDTH = 960;
 var HEIGHT = 640;
 var Main = /** @class */ (function (_super) {

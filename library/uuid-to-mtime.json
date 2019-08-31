@@ -54,16 +54,6 @@
     "meta": 1567234693359,
     "relativePath": "未命名.fire"
   },
-  "a8c89a71-7d6b-454b-93c2-f74f36849cca": {
-    "asset": 1564218626290,
-    "meta": 1564218627828,
-    "relativePath": "scripts/JoyStick.js"
-  },
-  "ae1cb4d8-015f-4b8f-be91-0848445dcacf": {
-    "asset": 1564218749052,
-    "meta": 1564218752068,
-    "relativePath": "scripts/car.js"
-  },
   "69ba4ab9-7bc0-4241-aa63-29d2077ba15f": {
     "asset": 1564820215152,
     "meta": 1564820442310,
@@ -289,9 +279,19 @@
     "meta": 1567229680948,
     "relativePath": "prefab/webview.prefab"
   },
+  "a8c89a71-7d6b-454b-93c2-f74f36849cca": {
+    "asset": 1567237648315,
+    "meta": 1567237650008,
+    "relativePath": "scripts/JoyStick.js"
+  },
+  "ae1cb4d8-015f-4b8f-be91-0848445dcacf": {
+    "asset": 1567238565927,
+    "meta": 1567238851027,
+    "relativePath": "scripts/car.js"
+  },
   "df22fee0-fda0-4629-92a0-9cd279a77e3a": {
-    "asset": 1567236737541,
-    "meta": 1567236742977,
+    "asset": 1567238850643,
+    "meta": 1567238851028,
     "relativePath": "scripts/main.ts"
   }
 }

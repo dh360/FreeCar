@@ -23,6 +23,7 @@ cc.Class({
         console.log('摇杆组件加载。。。')
         //获取摇杆初始位置
         this.ringPos = this.ring.getPosition();
+        console.log('控制杆的位置', this.ringPos);
         this.radius = this.ring.width / 2; // 半径
         this.centerX = this.ring.anchorX * this.ring.width;
         this.centerY = this.ring.anchorY * this.ring.height;
@@ -36,6 +37,7 @@ cc.Class({
         const distance = touchPos.sub(this.ring.getPosition()).mag();
         this._stickPos = this.ring.getPosition();
 
+        console.log('触摸位置', touchPos);
         if (distance <= this.radius) {
             this.dot.setPosition(touchPos);
         }

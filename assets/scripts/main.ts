@@ -1,6 +1,6 @@
 const {ccclass, property} = cc._decorator;
 
-const SPEED = 400;
+const SPEED = 400;   // 这个速度应该跟小车的移动速度保持一致
 const WIDTH = 960;
 const HEIGHT = 640;
 
@@ -12,7 +12,7 @@ export default class Main extends cc.Component {
     @property(cc.Node) stick: cc.Node = null;
 
     /** 四个方向输入指令 */
-	private _input = {
+	private _input = {  
 		left: false,
 		right: false,
         up: false,
